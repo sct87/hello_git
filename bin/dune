@@ -1,0 +1,4 @@
+(executable
+ (public_name hello_git)
+ (name main)
+ (libraries hello_git))
